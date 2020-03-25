@@ -1,4 +1,4 @@
-Hello , 
+Hello everyone, 
 
 # This is a simple portfolio page 
 
